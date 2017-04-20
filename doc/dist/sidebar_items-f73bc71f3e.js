@@ -1,0 +1,1 @@
+sidebarNodes={"extras":[{"id":"api-reference","title":"API Reference","group":"","headers":[{"id":"Modules","anchor":"modules"}]}],"exceptions":[],"modules":[{"id":"ParallelEnum","title":"ParallelEnum","functions":[{"id":"map/3","anchor":"map/3"},{"id":"map!/3","anchor":"map!/3"}]}],"protocols":[]}
