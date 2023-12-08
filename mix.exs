@@ -4,7 +4,7 @@ defmodule ParallelEnum.Mixfile do
   def project do
     [app: :parallel_enum,
      version: "0.1.0",
-     elixir: "~> 1.3",
+     elixir: "~> 1.12",
      description: "A parallel enum processing library",
      build_embedded: Mix.env == :prod,
      deps: deps(),
